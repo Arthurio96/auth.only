@@ -1,0 +1,16 @@
+h1 {
+    width: 33%;
+}
+
+form {
+    width: 33%;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid #666;
+}
+
+input {
+    display: block;
+    padding: 4px;
+    margin-bottom: 4px;
+}
